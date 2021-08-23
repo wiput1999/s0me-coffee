@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Wiput want s0me coffee',
   author: 'Wiput Pootong',
-  headerTitle: 'Wiput want s0me coffee',
+  headerTitle: 's0me coffee',
   description: 'I want s0me coffee',
   language: 'en-us',
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -39,7 +39,7 @@ const siteMetadata = {
       metadata: '0',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: 'dark',
       // theme when dark mode
       darkTheme: 'transparent_dark',
       // If the theme option above is set to 'custom`
